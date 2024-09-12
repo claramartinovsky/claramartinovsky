@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="eu.gif"/>
+<img align="right" height="150" src="93aa8y.gif"/>
 
 ###
 
