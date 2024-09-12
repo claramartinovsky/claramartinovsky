@@ -40,11 +40,3 @@
 
 ###
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/claramartinovsky/claramartinovsky/output/snake.svg" alt="Snake animation" />
-
-###
-
